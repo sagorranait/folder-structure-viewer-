@@ -23,7 +23,8 @@ const Container = styled.div`
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  margin: 50px auto 0;
+  margin: 30px auto 0;
+  gap: 20px;
   // height: 650px;
   // background: #FFFFFF;
   // border-radius: 10px;

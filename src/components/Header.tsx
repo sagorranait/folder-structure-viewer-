@@ -5,7 +5,7 @@ const Header = () => {
     <Container>
       <CommonArea>
         <LogoImg src="./assets/logo.png" alt="Folder-Structure-Logo" />
-        <LogoText>Folder Structure Viewer</LogoText>
+        <LogoText>Folder Structure</LogoText>
       </CommonArea>
       <CommonArea>
         <UserText>sagorranait@gmail.com</UserText>
