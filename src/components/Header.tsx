@@ -42,7 +42,7 @@ const LogoText = styled.h1`
 `;
 
 const UserImg = styled.img`
-  width: 50px;
+  width: 40px;
   border-radius: 50px;
   object-fit: cover;
   border: 2px solid #e70844;
